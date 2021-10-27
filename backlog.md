@@ -1,5 +1,9 @@
-https://remoteok.io/open
-theguardian.com/environment/2021/oct/15/students-solar-powered-camper-van-turns-heads-on-1800-mile-road-trip
-https://www.nextgov.com/emerging-tech/2021/10/dhs-wants-wearables-track-employee-health-work-and-home/186106/
-https://vivaldi.com/blog/vivaldi-business-model/
-https://jakearchibald.com/2021/cors/
+- https://remoteok.io/open
+- theguardian.com/environment/2021/oct/15/students-solar-powered-camper-van-turns-heads-on-1800-mile-road-trip
+- https://www.nextgov.com/emerging-tech/2021/10/dhs-wants-wearables-track-employee-health-work-and-home/186106/
+- https://vivaldi.com/blog/vivaldi-business-model/
+- https://jakearchibald.com/2021/cors/
+- 
+- 
+- 
+- 
